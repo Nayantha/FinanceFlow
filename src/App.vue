@@ -2,5 +2,5 @@
 </script>
 
 <template>
-    <h1>FinanceFlow</h1>
+    <h1 class="text-3xl font-bold underline">FinanceFlow</h1>
 </template>
